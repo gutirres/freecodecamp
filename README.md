@@ -1,2 +1,2 @@
 # freecodecamp
-Apenas estudos realizados através do site freecodecamp
+Estudos realizados através do site freecodecamp
